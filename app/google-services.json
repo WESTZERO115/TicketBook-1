@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "655067088481",
+    "firebase_url": "https://ticketbook-bae96.firebaseio.com",
+    "project_id": "ticketbook-bae96",
+    "storage_bucket": "ticketbook-bae96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655067088481:android:4c89afa03bb9c8d644cc20",
+        "android_client_info": {
+          "package_name": "com.example.ticketbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655067088481-9ui9e4a8djf057a4p1sup31g28m1dqh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticketbook",
+            "certificate_hash": "9869adee38f15ef4a3e0af0198b8d3375e63dd22"
+          }
+        },
+        {
+          "client_id": "655067088481-h7rhhue62mg7cjo835jkaqtcpan3dlsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXcQe4Ojq4ADmVC--qo6fLdRxKBEnnHUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655067088481-h7rhhue62mg7cjo835jkaqtcpan3dlsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
